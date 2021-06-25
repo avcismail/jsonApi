@@ -1,0 +1,8 @@
+{
+  "baslik": "C# Nedir?",
+  "metin": "  C#, Microsoft tarafından geliştirilmekte ve desteklenmekte olan,  C++’ın gücünü ve Visual Basic’in kullanıcı dostu yapısını birleştiren bir dil olarak ortaya çıkmıştır. .Net Framework ile derlenen kodlar “.exe” uzantılı çalıştırılabilir uygulamalara dönüşürler. Nesne tabanlı programlama dillerinden biri olan C#’a Java, C++ veya C diliyle daha önceden uygulama geliştirmiş bir programcı kısa sürede adapte olabilir, yazım kurallarına (syntax) alışabilir",
+  "baslik2": "C# Ne Kadar Popüler?",
+  "metin2": "  IEEE’nin yaptığı araştırmaya göre 2016 yılında sırasıyla C, Java, Python, C++ ve R dillerinden sonra dünyada en popüler 6. programlama dilidir.( bir önceki seneye göre 1 sıra geriledi.)",
+  "baslik3": "C# ve yaygın kullanıldığı platformlar",
+  "metin3": "Masaüstü, Web, Mobil, IoT"
+}
